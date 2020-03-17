@@ -1,2 +1,2 @@
-# Django
-Some basic Django projects
+# Django-Blog
+
